@@ -3,6 +3,9 @@
 
 代码是直接逆向分析出来的，没有优化(比较挫,但愿大家能看懂!)，只用来说明Tic数据的文件格式。
 
+数据的准确性我没有认真校对，应该差不多，如下图:
+![示例图片](https://raw.githubusercontent.com/datochan/ParseTicFile/master/data/example.png)
+
 # 命令的使用方法
 
 ```$bash
