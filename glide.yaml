@@ -1,0 +1,6 @@
+package: ParseTicFile
+import:
+- package: github.com/datochan/gcom
+  subpackages:
+  - bytes
+  - utils
